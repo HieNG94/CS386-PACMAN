@@ -4,8 +4,8 @@
 
 ### PROJECT CONTAINS:
 - [player.py](mdfiles/player.md)
-- [pacman.py](mdfiles/pacman.md
+- [pacman.py](mdfiles/pacman.md)
 - [enemies.py](mdfiles/enemies.md)
 - [laser.py](mdfiles/laser.md)
-- [main.py]((mdfiles/main.py)
+- [main.py](mdfiles/main.py)
 - View full project on GitHub
