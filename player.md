@@ -264,3 +264,4 @@ class Player:
             self.coin_empty = False
             self.get_fruit()
             self.make_coin(game=game)
+```
