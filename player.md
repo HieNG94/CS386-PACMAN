@@ -1,20 +1,6 @@
 # PACMAN-PORTAL game
 ## Source: HieNG94/CS386-PACMAN/player.py
-```
-######################################################################################################################
-# CS 386
-# HIEN NGUYEN, 889341772
-######################################################################################################################
 ```python
-import pygame as pg
-from pygame.locals import *
-from vector import *
-from settings import *
-from maze import *
-from copy import deepcopy
-import time
-
-
 class Player:
     def __init__(self, game, pos, velocity):
         self.game = game
