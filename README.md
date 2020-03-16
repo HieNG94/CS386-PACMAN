@@ -1,5 +1,5 @@
-'''markdown
-#INTRODUCTION
+# PACMAN-PORTAL GAME
+### INTRODUCTION:
 A pacman game which pacman has ablity to open portals and teleport to escape ghosts.
-The project contains:
-  
+### CODE:
+- player.py 
