@@ -1,6 +1,6 @@
 
 ## Source: HieNG94/CS386-PACMAN/pacman.py
-```pthon
+```python
 class Game:
     def __init__(self):
         pg.display.set_caption('PAC-MAN')
