@@ -10,6 +10,7 @@
 - [main.py](main.py)
 - [maze.py](maze.py)
 - [setting.py](setting.py)
+- [vector.py](vector.py)
 - [score.txt](score.txt)
 - image folder
 - sound folder
