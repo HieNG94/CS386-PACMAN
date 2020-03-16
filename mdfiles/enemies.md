@@ -461,3 +461,4 @@ class Enemies:
             self.direction = Vector(0.0, 1.0)
         elif e_gid_x * CELL_SIZE == cell.x and e_grid_y * CELL_SIZE > cell.y:
             self.direction = Vector(0.0, -1.0)
+```
