@@ -2,6 +2,9 @@
 ### INTRODUCTION:
 - A pacman game which pacman has ablity to open portals and teleport to escape ghosts.
 
+### AUTHOR:
+Hien Nguyen.
+
 ### PROJECT CONTAINS:
 - [player.py](player.py)
 - [pacman.py](pacman.py)
